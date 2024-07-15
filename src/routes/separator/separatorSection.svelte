@@ -1,0 +1,1 @@
+<div class="separatorSection w-full h-[5rem] bg-[rgb(247,231,235)] m-0"></div>
